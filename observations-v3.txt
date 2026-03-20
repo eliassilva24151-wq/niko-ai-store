@@ -1,0 +1,13 @@
+Observações do site após redesign v3:
+- Tema claro (branco) aplicado com sucesso
+- Logo Niko-Ai grande e visível no Hero
+- Paleta azul/cinza aplicada em todo o site
+- Botões azuis, badges azuis, gradientes azuis
+- 10 botões "Adicionar" visíveis (10 produtos)
+- Navbar com carrinho e botão "Comprar"
+- Marcas em marquee: Fiat, VW, Chevrolet, etc.
+- Seção Scanner com IA com gradiente azul
+- Preço R$299 no botão de compra
+- 16 testes passando
+- 0 erros TypeScript
+- Domínio atribuído: nikoaishop-jkukv2ez.manus.space

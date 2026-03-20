@@ -1,0 +1,25 @@
+VARREDURA COMPLETA DO SITE NIKO-AI - 10/03/2026
+
+HOME PAGE:
+1. Hero: OK - Logo Niko-Ai visível, título, stats, botões CTA funcionando
+2. Produtos (10 cores): OK - Grid 5x2, cada um com imagem, nome, estrelas, preço R$299, botão Adicionar
+3. Vídeo: OK - Embed do Facebook carregando, 741 mil visualizações
+4. Scanner IA: OK - 6 features cards, stats (-15%, 40+, Flex)
+5. Compras recentes: OK - Notificações de compras aparecendo
+6. Galeria: Preciso verificar
+7. Compatibilidade: Preciso verificar
+8. Avaliações: Preciso verificar
+9. Pricing: Preciso verificar
+10. FAQ: Preciso verificar
+11. Footer: Preciso verificar - LOGO MP PRECISA SER VERIFICADO
+
+FOOTER:
+- Logo Niko-Ai: OK
+- Links Rápidos: OK
+- Pagamento Seguro: Logo MP aparece MUITO PEQUENO - parece ser o logo vertical mas é minúsculo
+- Copyright: OK
+- Pagamento seguro via Pix: OK
+
+PROBLEMAS ENCONTRADOS:
+1. Logo MP no footer está muito pequeno - precisa ser maior e mais visível
+2. Preciso verificar a página de pagamento para o logo MP

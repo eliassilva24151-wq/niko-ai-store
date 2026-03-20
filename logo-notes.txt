@@ -1,0 +1,3 @@
+Logo do usuário: é o logo atual do Niko-Ai que já está no site (o robô com olhos LED vermelhos + texto NIKO-AI).
+O usuário quer que esse logo fique BEM GRANDE no site, muito mais visível.
+Atualmente está com h-10 (40px) na navbar. Precisa ficar bem maior, especialmente no hero.

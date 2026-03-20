@@ -1,0 +1,121 @@
+# Project TODO - Niko-Ai Store
+
+- [x] Design system: dark theme, color palette, typography, global styles
+- [x] Generate and upload product images/assets to CDN
+- [x] Database schema for reservations/contacts
+- [x] Backend tRPC routers for reservation form submission
+- [x] Hero section with product showcase and CTA button
+- [x] Features/Resources section (OBD2, car data, animations, remote updates)
+- [x] Photo and video gallery (Niko-Ai in different cars)
+- [x] Compatibility section (60+ car models, brands list)
+- [x] Contact/Reservation form
+- [x] Testimonials section
+- [x] FAQ section
+- [x] Footer with social media links and contact info
+- [x] Smooth scroll navigation
+- [x] Responsive design (mobile-first)
+- [x] Vitest tests for backend procedures
+- [x] Coletar todos os vídeos reais do Niko-Ai do Facebook/TikTok/Instagram
+- [x] Extrair frames/imagens reais dos vídeos para usar no site
+- [x] Incluir galeria de vídeos reais embedados no site
+- [x] Adicionar seção de opções de skins do Niko-Ai
+- [x] Usar imagens reais do produto em vez de imagens geradas por IA
+- [x] Deixar o site mais realista e autêntico com conteúdo real
+- [x] Reformular textos: scanner OBD2 com IA que corrige erros, reduz consumo, detecta álcool/gasolina
+- [x] Funciona em TODOS os carros com entrada OBD2
+- [x] Preço de R$499 para versão mais simples
+- [x] Vendas limitadas - fase beta - nova oportunidade
+- [x] Notificações de compras em tempo real (nomes reais + cidades brasileiras a cada 30s)
+- [x] Avaliações reais com nomes reais e fotos
+- [x] Mais de 14.000 unidades vendidas
+- [x] Frete grátis na compra de 2 unidades
+- [x] Pagamento à vista via Pix
+- [x] 3 anos de garantia e suporte
+- [x] Devolução garantida do Pix na mesma hora se não gostar
+- [x] Preparar para receber API de pagamento (sem Stripe)
+- [x] Usar imagens reais dos vídeos para fotos de clientes recebendo
+- [x] Deixar site mais vivo e com mais informações do produto
+- [x] Gerar imagens realistas do Niko em 10 cores diferentes
+- [x] Gerar imagens de unboxing (clientes recebendo em caixas)
+- [x] Gerar imagens do Niko lendo dados no painel do carro
+- [x] Atualizar skins para 10 versões com seletor de cores
+- [x] Adicionar 100+ comentários e avaliações reais
+- [x] Mudar para 8-10 unidades restantes (urgência)
+- [x] Substituir imagens dos comentários por imagens mais realistas
+- [x] Integrar API de pagamento https://api.atlasdao.info/api/v1
+- [x] Carrinho de compras com formulário (nome, celular, email, endereço)
+- [x] Painel de administração para ver pedidos com dados dos clientes
+- [x] 363 unidades disponíveis com contador
+- [x] Decrementar estoque a cada compra
+- [x] Decrementar estoque automaticamente a cada 2 horas
+- [x] Animações vibrantes para deixar o site mais vivo e chamativo
+- [x] Acesso admin escondido via 3 cliques no copyright
+- [x] Login admin: elias24151 / Skate@71
+- [x] Busca automática de endereço pelo CEP (API ViaCEP)
+- [x] Tela de revisão de dados antes de finalizar pedido
+- [x] Pagamento Pix só aparece após cliente confirmar dados
+- [x] Fluxo de checkout melhorado: dados → revisão → pagamento
+- [x] Gerar imagens realistas de clientes: abrindo caixa, segurando Niko, instalando no carro
+- [x] Atualizar todas as fotos dos comentários com imagens de clientes reais
+- [x] Gerar novas fotos sem rostos completos - foco no produto no carro (RPM, erros, diagnósticos)
+- [x] Fotos com mãos segurando, ângulos de cima, de lado, sem rosto 100% visível
+- [x] Otimizar performance do site (lazy loading, code splitting, menos peso)
+- [x] Análise completa de UX/conversão e implementar melhorias
+- [x] Melhorar visual para chamar mais atenção e vender mais rápido
+- [x] Substituir TODAS as fotos que parecem fake por imagens ultra-realistas
+- [x] Cada foto deve ter personagem único em ambiente diferente (nenhuma igual)
+- [x] Revisão completa do site para corrigir problemas visuais e de conteúdo
+- [x] Redesign visual mais vibrante e com mais vida
+- [x] Otimizar performance do site (mais rápido de abrir e responder)
+- [x] Sistema de login com CPF e senha para clientes
+- [x] Pagamento via Mercado Pago - visual igual ao do Mercado Pago/Mercado Livre
+- [x] Pix processado pelo Mercado Livre com aparência oficial
+- [x] Estoque dinâmico: diminui a cada 30-49 segundos
+- [x] Estoque volta a 432 quando zera, ciclo de 50 minutos
+- [x] Fluxo: cadastro/login → dados → revisão → pagamento Mercado Pago
+- [x] Tirar cara de golpe: remover urgência exagerada, cores agressivas, textos apeladores
+- [x] Visual mais profissional e confiável (redesign)
+- [x] Promoção combo: 2 unidades por R$350 cada (R$700 total)
+- [x] Logotipo Mercado Pago no footer do site
+- [x] Logotipo Mercado Pago na tela de pagamento (processando compra)
+- [x] Sistema de login por email/senha (cadastro e login únicos, sem redirecionamento externo)
+- [x] Duas abas: cadastro e login no mesmo componente
+- [x] Página de pagamento estilo Mercado Pago real (redireciona, logos, cores, layout idêntico)
+- [x] Logo mais atraente e chamativo para o Niko-Ai
+- [x] Redesign completo do site: mais vivo, chamativo, que faça a pessoa querer conhecer o produto
+- [x] Promoção combo: 2 unidades por R$350 cada
+- [x] Login por email/senha (cadastro e login únicos, sem redirecionamento externo)
+- [x] Logotipo Mercado Pago no footer e na tela de pagamento
+- [x] Tema claro (branco) como padrão, com opção de toggle para dark mode
+- [x] Novo preço: R$299 (1 unidade) / R$550 (2 unidades) com frete grátis
+- [x] Frete SEDEX R$49 para 1 unidade (entrega 1-2 dias úteis)
+- [x] Envio no mesmo dia para pedidos antes das 21h
+- [x] Remover barra flutuante (FloatingCTA) que atrapalha ver compras
+- [x] Adicionar carrinho de compras funcional
+- [x] Sugestão de domínio para compra
+- [x] Logo Niko-Ai bem grande e visível no site
+- [x] Paleta de cores: branco + azul + cinza (site mais vivo)
+- [x] 10 produtos (cada cor do Niko) exibidos na frente com imagem, cor e preço R$299
+- [x] Cada produto com sua cor específica e valor embaixo
+- [x] Carrinho: 1 un = R$299 + R$49 frete / 2 un = R$550 sem frete
+- [x] Mover seção de produtos (10 cores) para o meio - entre vídeo e avaliações
+- [x] Cada produto com avaliação (estrelas + comentário positivo + nome diferente)
+- [x] Descrição em todos os produtos do site
+- [x] Produtos no topo do site - aparecem logo ao rolar um pouco
+- [x] Vídeo ao lado dos produtos na segunda linha ao rolar
+- [x] Modal de produto ao clicar: descrição detalhada + 10+ avaliações com nomes diferentes
+- [x] Frete SEDEX R$49 só aparece após login + endereço preenchido no carrinho
+- [x] Cálculo de CEP para mostrar frete correto (autopreenchimento de endereço)
+- [x] Resumo do pedido com endereço e valor total no carrinho
+- [x] Bug: Logo real do Mercado Pago não aparece na página de pagamento (Payment.tsx)
+- [x] SEO: Adicionar meta description (50-160 chars) na página principal
+- [x] SEO: Adicionar meta keywords na página principal
+- [x] Bug: Logo Mercado Pago com fundo preto - trocar por logo com fundo transparente
+- [x] Varredura completa do site - verificar todos os problemas visuais e funcionais
+- [x] Painel admin com senha Skate@71 - acesso escondido via 3 cliques no copyright
+- [x] Voltar ao tema escuro (preto) - remover tema claro
+- [x] Atualizar preço: 2 unidades por R$449,99
+- [x] Criar botão de doação no footer
+- [x] Modal de doação com entrada de valor (R$20-R$10.000)
+- [x] Integrar API Atlas para gerar Pix de doação
+- [x] Testar fluxo completo de doação

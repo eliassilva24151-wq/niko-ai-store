@@ -1,0 +1,8 @@
+Screenshot v5 observations:
+- Site looks clean with white theme, blue accents
+- Hero section has logo, product image, stats
+- No TypeScript errors, no build errors
+- Products section should appear after scrolling past hero
+- Checkout has CEP auto-lookup, frete calculated after address
+- Sidebar shows "Calculado no checkout" for 1 unit frete
+- Envio no mesmo dia for orders before 21h
